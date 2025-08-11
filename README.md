@@ -1,5 +1,5 @@
 <img width="408" height="408" alt="image" src="https://github.com/user-attachments/assets/1b7d883e-9bf6-41f2-9307-79f2fc2738f6" />### Hi there, I'm [YuneTou](https://www.facebook.com/WuyetLun4)（Quyết）. 👋
-I'm just a chill guy who didn't know anything about code 😘
+I'm just a chill guy who didn't know anything about code 
 <img align="middle" width="200" src="https://media.discordapp.net/attachments/901841586785247234/1404356271674626109/MinakamiYuki.jpg?ex=689ae432&is=689992b2&hm=d00ea972bb1c690b1c08ea27d876eec0c08c6d709308169dc8c579a060528327&=&format=webp&width=475&height=648">
 - 😍 Real name: Nguyễn Quyết 😍
 - ✨ I'm from 🇻🇳 ✨
