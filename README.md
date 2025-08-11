@@ -8,7 +8,7 @@ I'm just a chill guy who didn't know anything about code
 - ✨ I'm from 🇻🇳 ✨
 - 😳 LoL enthusiast 😳
 - ❤️ I like computer games 🖥️ , playing ⚽, sleeping in 🛌 and watching 📺 [Anime](<https://en.wikipedia.org/wiki/Anime>).
--  My information [here](https://www.facebook.com/WuyetLun4).
+-  My informations [here](https://www.facebook.com/WuyetLun4).
 
 ---
 
