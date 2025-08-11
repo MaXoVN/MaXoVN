@@ -1,16 +1,18 @@
-## Hi there 👋
+<img width="408" height="408" alt="image" src="https://github.com/user-attachments/assets/1b7d883e-9bf6-41f2-9307-79f2fc2738f6" />### Hi there, I'm [YuneTou](https://www.facebook.com/WuyetLun4)（Quyết）. 👋
+I'm just a chill guy who didn't know anything about code 😘
+<img align="middle" width="200" src="https://media.discordapp.net/attachments/901841586785247234/1404356271674626109/MinakamiYuki.jpg?ex=689ae432&is=689992b2&hm=d00ea972bb1c690b1c08ea27d876eec0c08c6d709308169dc8c579a060528327&=&format=webp&width=475&height=648">
+- 😍 Real name: Nguyễn Quyết 😍
+- ✨ I'm from 🇻🇳 ✨
+- 😳 LoL enthusiast 😳
+- ❤️ I like computer games 🖥️ , playing ⚽, sleeping in 🛌 and watching 📺 [Anime](<https://en.wikipedia.org/wiki/Anime>).
+-  My information [here](https://www.facebook.com/WuyetLun4).
 
-<!--
-**MaXoVN/MaXoVN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/Jurredr/github-widgetbox">
+    <img width="60%" height="60%" src="https://github-widgetbox.vercel.app/api/skills/?names=java,javascript,html,powershell&includeNames=true" alt="GitHubWidget Box"></p>
+  
+<p align = "center"><img src = "https://github-readme-stats.vercel.app/api?username=MaXoVN&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align = "center"><img src = "https://streak-stats.demolab.com/?user=MaXoVN&theme=dracula&hide_border=true"></p>
