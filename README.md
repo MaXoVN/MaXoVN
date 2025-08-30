@@ -7,9 +7,10 @@ I'm just a chill guy who didn't know anything about code
 - 😍 Real name: Nguyễn Quyết 😍
 - ✨ I'm from 🇻🇳 ✨
 - 😳 LoL enthusiast 😳
-- ❤️ I like computer games 🖥️ , playing ⚽, sleeping in 🛌 and watching 📺 [Anime](<https://en.wikipedia.org/wiki/Anime>).
+- ❤️ I like computer games 🖥️ , playing ⚽, sleeping in 🛌 and watching 📺 [Anime](<https://en.wikipedia.org/wiki/Anime>)
 - 📖 Manga/Light novel Collector 📖
--  My informations [here](https://maxovn.github.io/).
+- 👉 Visual Novel Enjoyer 👈
+-  My informations [here](https://maxovn.github.io/)
 
 
 ---
