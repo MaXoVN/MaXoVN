@@ -8,8 +8,8 @@ I'm just a chill guy who didn't know anything about code
 - ✨ I'm from 🇻🇳 ✨
 - 😳 LoL enthusiast 😳
 - ❤️ I like computer games 🖥️ , playing ⚽, sleeping in 🛌 and watching 📺 [Anime](<https://en.wikipedia.org/wiki/Anime>)
-- 📖 Manga/Light novel Collector 📖
-- 👉 Visual Novel Enjoyer 👈
+- 📖 Manga/Light novel collector 📖
+- 👉 Visual novel enjoyer 👈
 -  My informations [here](https://maxovn.github.io/)
 
 
