@@ -1,6 +1,6 @@
 ### Hi there, I'm [YuneTou](https://www.facebook.com/WuyetLun4)
 
-<img align="right" width="270" alt="YuneTou" src="https://github.com/MaXoVN/MaXoVN/blob/main/MinakamiYuki.jpg?raw=true">
+<img align="right" width="180" alt="YuneTou" src="https://github.com/MaXoVN/MaXoVN/blob/main/MinakamiYuki.jpg?raw=true">
 
 I'm just a chill guy who didn't know anything about code 
 
