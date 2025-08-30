@@ -1,6 +1,6 @@
 ### Hi there, I'm [YuneTou](https://www.facebook.com/WuyetLun4)
 
-<img align="right" width="475" height="648" alt="YuneTou" src="https://github.com/MaXoVN/MaXoVN/blob/main/MinakamiYuki.jpg?raw=true">
+<img align="right" width="180" alt="YuneTou" src="https://github.com/MaXoVN/MaXoVN/blob/main/MinakamiYuki.jpg?raw=true">
 
 I'm just a chill guy who didn't know anything about code 
 
@@ -8,7 +8,9 @@ I'm just a chill guy who didn't know anything about code
 - ✨ I'm from 🇻🇳 ✨
 - 😳 LoL enthusiast 😳
 - ❤️ I like computer games 🖥️ , playing ⚽, sleeping in 🛌 and watching 📺 [Anime](<https://en.wikipedia.org/wiki/Anime>).
+- 🥺 Murasame's Husband 🥺
 -  My informations [here](https://maxovn.github.io/).
+
 
 ---
 
